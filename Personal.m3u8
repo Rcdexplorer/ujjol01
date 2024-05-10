@@ -55,7 +55,7 @@ https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
 #EXTINF:-29 tvg-logo="https://i.ibb.co/D8jkRyK/20240430-083154.png"group-title="",DBC News
 https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
-#EXTINF:-30 tvg-logo="https://i.ibb.co/9Hd3DwV/image-search-1713979940103.jpg"group-title="",Move Bangla
+#EXTINF:-30 tvg-logo="https://i.ibb.co/9Hd3DwV/image-search-1713979940103.jpg"group-title="",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-31 tvg-logo="https://i.ibb.co/3f8H2HC/20240430-083911.png"group-title="",BBC News
 https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
@@ -82,7 +82,7 @@ https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 #EXTINF:-43 tvg-logo="#EXTINF:-40 tvg-logo="https://i.ibb.co/dQ7fsJf/20240428-025157.jpg"group-title="",Zee Bangla HD
 http://tv.cloudcdn.me:80/live.ts?channelId=120&uid=6140&deviceMac=00:1A:79:C1:9A:8C
 #EXTINF:-44 tvg-logo="https://i.ibb.co/pWP5kZB/20240428-025953.jpg"group-title="",Zee Bangla HD
-http://watchindia.net:8880/live/83023/62335/2287.m3u8
+http://watchindia.net:8880/live/83023/62335/2283.m3u8
 #EXTINF:-45 tvg-logo="https://i.ibb.co/0cgX3Bx/image-search-1713979185077.png"group-title="",Colors Bangla HD
 http://xtv.ooo:8080/Sehrish/12345/245895
 #EXTINF:-46 tvg-logo="https://i.ibb.co/0cgX3Bx/image-search-1713979185077.png"group-title="",Colors Bangla 
