@@ -89,35 +89,29 @@ http://xtv.ooo:8080/Sehrish/12345/245895
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 #EXTINF:-47 tvg-logo="https://i.ibb.co/Qdt2F6v/image-search-1713979222513.png"group-title="",Sony aath
 http://xtv.ooo:8080/Sehrish/12345/245989
-#EXTINF:-48 tvg-logo="https://i.ibb.co/zVgd7B3/20240430-071718.jpg"group-title="",Colors Bangla Cinema
-https://fr.tvanondo.online/sananda/video.m3u8
-#EXTINF:-49 tvg-logo="https://i.ibb.co/zRKxWnm/image-search-1713980037798.jpg"group-title="",Entar 10 Bangla
+#EXTINF:-48 tvg-logo="https://i.ibb.co/zRKxWnm/image-search-1713980037798.jpg"group-title="",Entar 10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
-#EXTINF:-50 tvg-logo="https://i.ibb.co/j4P1g9P/IMG-20240430-064226.png"group-title="",Zee Bangla Cinema 
+#EXTINF:-49 tvg-logo="https://i.ibb.co/j4P1g9P/IMG-20240430-064226.png"group-title="",Zee Bangla Cinema 
 http://yesimes.oknirvana.club:8880/live/uncleREKADO/hMvjXFPHsF/49963.m3u8
-#EXTINF:-51 tvg-logo="https://i.ibb.co/5c1ZgFh/image-search-1713979248981.png"group-title="",Jalsa Moves HD
-http://103.107.79.87:8080/CH8110SD02/tracks-v1a1/mono.m3u8
-#EXTINF:-52 tvg-logo="https://i.ibb.co/TrB5QMt/image-search-1713979310505.png"group-title="",Sun Bangla Cinema
-https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
-#EXTINF:-53 tvg-logo="https://i.ibb.co/V2XNMYQ/image-search-1713979332046.png"group-title="",Nickelodeon
-https://jiotv.nayeemparvez.workers.dev/bpk-tv/Sonic_Bangla_MOB/Fallback/index.m3u8
-#EXTINF:-55 tvg-logo="https://i.ibb.co/HqTyM5Y/20240430-082907.png"group-title="",Sony YAY
-http://xtv.ooo:8080/Sehrish/12345/245959
-#EXTINF:-56 tvg-logo="https://i.ibb.co/42Yw1qR/IMG-20240320-115701.jpg"group-title="",Kids cartoon
+#EXTINF:-50 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png"group-title="",Sony Tv
+https://170.254.18.107/SONY/index.m3u8
+#EXTINF:-51 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png"group-title="",Zee Tv
+https://170.254.18.107/ZEE/index.m3u8
+#EXTINF:-52 tvg-logo="https://i.ibb.co/42Yw1qR/IMG-20240320-115701.jpg"group-title="",Kids cartoon
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
-#EXTINF:-57 tvg-logo="https://i.ibb.co/7b5WJ7c/20240430-200700.png"group-title="KIDS",Jugnu Kids Bangla
+#EXTINF:-53 tvg-logo="https://i.ibb.co/7b5WJ7c/20240430-200700.png"group-title="KIDS",Jugnu Kids Bangla
 https://ythls.armelin.one/channel/UCWyfOC7fLxYch3IkQ58fMrA.m3u8
-#EXTINF:-59 tvg-logo="https://i.ibb.co/Cm4fNnV/image-search-1713979415141.png"group-title="",Cartoon Network HD
+#EXTINF:-54 tvg-logo="https://i.ibb.co/Cm4fNnV/image-search-1713979415141.png"group-title="",Cartoon Network HD
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5
-#EXTINF:-60 tvg-logo="https://i.ibb.co/NxGyd12/image-search-1713979436584.png"group-title="",Discovery Kids
+#EXTINF:-55 tvg-logo="https://i.ibb.co/NxGyd12/image-search-1713979436584.png"group-title="",Discovery Kids
 https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Kids.m3u8
-#EXTINF:-61 tvg-logo="https://i.ibb.co/4p8F1dB/image-search-1713979493247.png"group-title="",Discovery Bangla
+#EXTINF:-56 tvg-logo="https://i.ibb.co/4p8F1dB/image-search-1713979493247.png"group-title="",Discovery Bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
-#EXTINF:-63 tvg-logo="https://i.ibb.co/Fg280Bg/image-search-1713979527326.png"group-title="",Star Sports 2
+#EXTINF:-57 tvg-logo="https://i.ibb.co/Fg280Bg/image-search-1713979527326.png"group-title="",Star Sports 2
 http://xtv.ooo:8080/Sehrish/12345/109988
-#EXTINF:-64 tvg-logo="https://i.ibb.co/CwnmncC/IMG-20240129-072239.jpg"group-title="",Sony Sports 1
+#EXTINF:-58 tvg-logo="https://i.ibb.co/CwnmncC/IMG-20240129-072239.jpg"group-title="",Sony Sports 1
 http://xtv.ooo:8080/Sehrish/12345/109983
-#EXTINF:-65 tvg-logo="https://i.ibb.co/Fg280Bg/image-search-1713979527326.png"group-title="",Sony Sports 2
+#EXTINF:-59 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png"group-title="",Sony Sports 2
 http://xtv.ooo:8080/Sehrish/12345/109984
 
 
