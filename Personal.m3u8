@@ -32,7 +32,7 @@ http://cdn01.palki.tv/live/BijoyTV-M/index.m3u8
 #EXTINF:-17 tvg-logo="https://i.ibb.co/CvWhgdq/image-search-1713978245283.png"group-title="",Somoy Tv
 https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-18 tvg-logo="https://i.ibb.co/NttrW6h/image-search-1713978282196.png"group-title="",Independent TV
-https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715432109/ei/TRY_Zs2LCrbfvcAP58q0mAM/ip/172.69.63.197/id/QlKFoGAybQk.33/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgZICHyu_FG-c-62KsFt6aEe9or0-OYP7GcisoYCnOUrECIQDAO_sBT1EAmarsZpv3YIqRQGH6W0TUmGdJVO28dVh3lg%3D%3D/file/index.m3u8
 #EXTINF:-19 tvg-logo="https://i.ibb.co/YXWq4Kt/image-search-1713978311115.jpg"group-title="",Maasranga TV
 http://cdn01.palki.tv/live/MaasrangaTV-M/index.m3u8
 #EXTINF:-20 tvg-logo="https://i.ibb.co/QYfTw9H/image-search-1713978334831.png"group-title="",Channel 9
@@ -94,9 +94,9 @@ https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg0
 #EXTINF:-49 tvg-logo="https://i.ibb.co/j4P1g9P/IMG-20240430-064226.png"group-title="",Zee Bangla Cinema 
 http://yesimes.oknirvana.club:8880/live/uncleREKADO/hMvjXFPHsF/49963.m3u8
 #EXTINF:-50 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png"group-title="",Sony Tv
-https://170.254.18.107/SONY/index.m3u8
+http://watchindia.net:8880/live/83023/62335/2141.m3u8
 #EXTINF:-51 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png"group-title="",Zee Tv
-https://170.254.18.107/ZEE/index.m3u8
+http://170.254.18.107/ZEE/index.m3u8
 #EXTINF:-52 tvg-logo="https://i.ibb.co/42Yw1qR/IMG-20240320-115701.jpg"group-title="",Kids cartoon
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 #EXTINF:-53 tvg-logo="https://i.ibb.co/7b5WJ7c/20240430-200700.png"group-title="KIDS",Jugnu Kids Bangla
