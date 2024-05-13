@@ -68,7 +68,7 @@ http://cdn01.palki.tv/live/NagorikTV-M/index.m3u8
 #EXTINF:-35 tvg-logo="https://i.ibb.co/kgv2vGF/image-search-1714013018876.jpg"group-title="",Ananda Tv
 http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
 #EXTINF:-36 tvg-logo="https://i.ibb.co/Bjy7nPP/image-search-1713979010421.jpg"group-title="",T Sports
-https://tv5.hoichoi24.com/1101/tracks-v1a1/mono.m3u8
+https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=21elNFu9Nbevi-BpzlXsxw&expires=1715782525&user=ff39d05fef0749028389f28943b73363
 #EXTINF:-37 tvg-logo="https://i.ibb.co/mtpsbsz/IMG-20240425-084651.jpg"group-title="",Nexus Tv
 http://cdn01.palki.tv/live/NexusTV-M/tracks-v1a1/mono.m3u8
 #EXTINF:-38 tvg-logo="https://i.ibb.co/4SMw1xd/image-search-1713979090924.png"group-title="",Ekhon
@@ -102,7 +102,7 @@ https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 #EXTINF:-53 tvg-logo="https://i.ibb.co/7b5WJ7c/20240430-200700.png"group-title="KIDS",Jugnu Kids Bangla
 https://ythls.armelin.one/channel/UCWyfOC7fLxYch3IkQ58fMrA.m3u8
 #EXTINF:-54 tvg-logo="https://i.ibb.co/Cm4fNnV/image-search-1713979415141.png"group-title="",Cartoon Network HD
-https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5
+https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
 #EXTINF:-55 tvg-logo="https://i.ibb.co/NxGyd12/image-search-1713979436584.png"group-title="",Discovery Kids
 https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Kids.m3u8
 #EXTINF:-56 tvg-logo="https://i.ibb.co/4p8F1dB/image-search-1713979493247.png"group-title="",Discovery Bangla
