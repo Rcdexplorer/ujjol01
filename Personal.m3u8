@@ -32,15 +32,15 @@ http://cdn01.palki.tv/live/BijoyTV-M/index.m3u8
 #EXTINF:-17 tvg-logo="https://i.ibb.co/CvWhgdq/image-search-1713978245283.png"group-title="",Somoy Tv
 https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-18 tvg-logo="https://i.ibb.co/NttrW6h/image-search-1713978282196.png"group-title="",Independent TV
-https://ythls-v2.onrender.com/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
+https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 #EXTINF:-19 tvg-logo="https://i.ibb.co/YXWq4Kt/image-search-1713978311115.jpg"group-title="",Maasranga TV
 http://cdn01.palki.tv/live/MaasrangaTV-M/index.m3u8
 #EXTINF:-20 tvg-logo="https://i.ibb.co/QYfTw9H/image-search-1713978334831.png"group-title="",Channel 9
 http://cdn01.palki.tv/live/Channel9-M/index.m3u8
 #EXTINF:-21 tvg-logo="https://i.ibb.co/SymD25x/20240428-030221.png"group-title="",Channel 24
 http://cdn01.palki.tv/live/Channel24-M/index.m3u8
-#EXTINF:-22 tvg-logo="https://i.ibb.co/kqQzFpB/image-search-1714012605151.jpg"group-title="",Gazi Tv
-https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
+#EXTINF:-22 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIAuliIifLYXySFw1QHwA1DLN-ZlE9jdDinJvGyL1V5kQxRTuPk7dxSGfd&s=10" group-title="",Star sports1
+http://103.120.172.74:4100
 #EXTINF:-23 tvg-logo="https://i.ibb.co/2qvTfn6/image-search-1713978430151.png"group-title="",Ekattor Tv
 http://cdn01.palki.tv:80/live/EkattorTV-M/tracks-v1a1/mono.m3u8
 #EXTINF:-24 tvg-logo="https://i.ibb.co/VwDwmPC/image-search-1713978458022.png"group-title="",Asian Tv
@@ -68,7 +68,7 @@ http://cdn01.palki.tv/live/NagorikTV-M/index.m3u8
 #EXTINF:-35 tvg-logo="https://i.ibb.co/kgv2vGF/image-search-1714013018876.jpg"group-title="",Ananda Tv
 http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
 #EXTINF:-36 tvg-logo="https://i.ibb.co/Bjy7nPP/image-search-1713979010421.jpg"group-title="",T Sports
-https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=21elNFu9Nbevi-BpzlXsxw&expires=1715782525&user=ff39d05fef0749028389f28943b73363
+http://wcdn.bdixsports.live:1935/live/event360.stream/chunklist_w261397841.m3u8?bdixsportstokenendtime=1715629660&bdixsportstokenstarttime=1715622660&bdixsportstokenhash=1kbHLRue5CXx2bQsvmqWXB3aR4aH-k7zSSOS07yZmJI%3D
 #EXTINF:-37 tvg-logo="https://i.ibb.co/mtpsbsz/IMG-20240425-084651.jpg"group-title="",Nexus Tv
 http://cdn01.palki.tv/live/NexusTV-M/tracks-v1a1/mono.m3u8
 #EXTINF:-38 tvg-logo="https://i.ibb.co/4SMw1xd/image-search-1713979090924.png"group-title="",Ekhon
@@ -80,9 +80,9 @@ https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 #EXTINF:-42 tvg-logo="https://i.ibb.co/Th0ZcPM/20240427-172401.jpg"group-title="",Star Jalsha HD
 http://xtv.ooo:8080/Sehrish/12345/245898
 #EXTINF:-43 tvg-logo="#EXTINF:-40 tvg-logo="https://i.ibb.co/dQ7fsJf/20240428-025157.jpg"group-title="",Zee Bangla HD
-http://tv.cloudcdn.me:80/live.ts?channelId=120&uid=6140&deviceMac=00:1A:79:C1:9A:8C
+http://watchindia.net:8880/live/83023/62335/2283.m3u8
 #EXTINF:-44 tvg-logo="https://i.ibb.co/pWP5kZB/20240428-025953.jpg"group-title="",Zee Bangla HD
-http://xtv.ooo:8080/adnankb2006/86057314/245893
+http://yesimes.oknirvana.club:8880/live/uncleREKADO/hMvjXFPHsF/49963.m3u8
 #EXTINF:-45 tvg-logo="https://i.ibb.co/0cgX3Bx/image-search-1713979185077.png"group-title="",Colors Bangla HD
 http://xtv.ooo:8080/Sehrish/12345/245895
 #EXTINF:-46 tvg-logo="https://i.ibb.co/0cgX3Bx/image-search-1713979185077.png"group-title="",Colors Bangla 
@@ -96,7 +96,7 @@ http://yesimes.oknirvana.club:8880/live/uncleREKADO/hMvjXFPHsF/49963.m3u8
 #EXTINF:-50 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png"group-title="",Sony Tv
 http://watchindia.net:8880/live/83023/62335/2141.m3u8
 #EXTINF:-51 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png"group-title="",Zee Tv
-http://170.254.18.107/ZEE/index.m3u8
+http://103.120.172.74:4000
 #EXTINF:-52 tvg-logo="https://i.ibb.co/42Yw1qR/IMG-20240320-115701.jpg"group-title="",Kids cartoon
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 #EXTINF:-53 tvg-logo="https://i.ibb.co/7b5WJ7c/20240430-200700.png"group-title="KIDS",Jugnu Kids Bangla
