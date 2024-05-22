@@ -40,7 +40,7 @@ http://cdn01.palki.tv/live/Channel9-M/index.m3u8
 #EXTINF:-21 tvg-logo="https://i.ibb.co/SymD25x/20240428-030221.png"group-title="",Channel 24
 http://cdn01.palki.tv/live/Channel24-M/index.m3u8
 #EXTINF:-22 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIAuliIifLYXySFw1QHwA1DLN-ZlE9jdDinJvGyL1V5kQxRTuPk7dxSGfd&s=10" group-title="",Star sports1
-http://103.120.172.74:4600
+http://watchindia.net:8880/live/83023/62335/2186.m3u8
 #EXTINF:-23 tvg-logo="https://i.ibb.co/2qvTfn6/image-search-1713978430151.png"group-title="",Ekattor Tv
 http://cdn01.palki.tv:80/live/EkattorTV-M/tracks-v1a1/mono.m3u8
 #EXTINF:-24 tvg-logo="https://i.ibb.co/VwDwmPC/image-search-1713978458022.png"group-title="",Asian Tv
@@ -68,7 +68,7 @@ http://cdn01.palki.tv/live/NagorikTV-M/index.m3u8
 #EXTINF:-35 tvg-logo="https://i.ibb.co/kgv2vGF/image-search-1714013018876.jpg"group-title="",Ananda Tv
 http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
 #EXTINF:-36 tvg-logo="https://i.ibb.co/Bjy7nPP/image-search-1713979010421.jpg"group-title="",T Sports
-https://humsab.xyz/GBanTv/index.m3u8
+https://test-tan-iota-90.vercel.app/live/app/Tsports/index.m3u8?token=freeiptv25
 #EXTINF:-37 tvg-logo="https://i.ibb.co/mtpsbsz/IMG-20240425-084651.jpg"group-title="",Nexus Tv
 http://cdn01.palki.tv/live/NexusTV-M/tracks-v1a1/mono.m3u8
 #EXTINF:-38 tvg-logo="https://i.ibb.co/4SMw1xd/image-search-1713979090924.png"group-title="",Ekhon
@@ -78,7 +78,7 @@ http://cdn01.palki.tv/live/GlobalTV-M/tracks-v1a1/mono.m3u8
 #EXTINF:-41 tvg-logo="https://i.ibb.co/vw1MS9R/20240427-171803.jpg"group-title="Kolkata",Star Jalsha HD
 http://xtv.ooo:8080/Sehrish/12345/245898
 #EXTINF:-42 tvg-logo="https://i.ibb.co/Th0ZcPM/20240427-172401.jpg"group-title="Kolkata",Star Jalsha HD
-http://tv.cloudcdn.me/live.ts?channelId=116&uid=8164&deviceMac=00:1A:79:17:D4:A1
+https://test-tan-iota-90.vercel.app/live/bdix/app/StarJalshaHD.m3u8
 #EXTINF:-43 tvg-logo="#EXTINF:-40 tvg-logo="https://i.ibb.co/dQ7fsJf/20240428-025157.jpg"group-title="Kolkata",Zee Bangla HD
 http://watchindia.net:8880/live/83023/62335/2283.m3u8
 #EXTINF:-44 tvg-logo="https://i.ibb.co/pWP5kZB/20240428-025953.jpg"group-title="Kolkata",Zee Bangla HD
