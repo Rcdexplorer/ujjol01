@@ -28,12 +28,14 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-21 tvg-logo="https://i.ibb.co/SymD25x/20240428-030221.png"group-title="",Channel 24
 https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 #EXTINF:-22 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIAuliIifLYXySFw1QHwA1DLN-ZlE9jdDinJvGyL1V5kQxRTuPk7dxSGfd&s=10" group-title="",Star sports1
-http://watchindia.net:8880/live/83023/62335/2186.m3u8
-#EXTINF:-23 tvg-logo="https://i.ibb.co/2qvTfn6/image-search-1713978430151.png"group-title="",Ekattor Tv
+https://ythls.armelin.one/channel/UC9Rgo0CrNyd7OWliLekqqGA.m3u8
+#EXTINF:-23 tvg-logo="https://i.ibb.co/Fg280Bg/image-search-1713979527326.png"group-title="",Star Sports 2
+http://opplex.tv:8080/live/2312211/1616616/167576.ts
+#EXTINF:-24 tvg-logo="https://i.ibb.co/2qvTfn6/image-search-1713978430151.png"group-title="",Ekattor Tv
 https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
-#EXTINF:-24 tvg-logo="https://i.ibb.co/VwDwmPC/image-search-1713978458022.png"group-title="",Asian Tv
+#EXTINF:-25 tvg-logo="https://i.ibb.co/VwDwmPC/image-search-1713978458022.png"group-title="",Asian Tv
 https://mtlivestream.site/asian/ytlive/index.m3u8
-#EXTINF:-25 tvg-logo="https://i.ibb.co/VQ1gfpf/image-search-1713978502377.jpg"group-title="",SA TV
+#EXTINF:-26 tvg-logo="https://i.ibb.co/VQ1gfpf/image-search-1713978502377.jpg"group-title="",SA TV
 https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:-27 tvg-logo="https://i.ibb.co/m8VV6kV/image-search-1714012548366.jpg"group-title="",Jamuna Tv
 https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
@@ -85,8 +87,7 @@ https://ythls.armelin.one/channel/UCWyfOC7fLxYch3IkQ58fMrA.m3u8
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
 #EXTINF:-56 tvg-logo="https://i.ibb.co/4p8F1dB/image-search-1713979493247.png"group-title="",Discovery Bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
-#EXTINF:-57 tvg-logo="https://i.ibb.co/Fg280Bg/image-search-1713979527326.png"group-title="",Star Sports 2
-http://opplex.tv:8080/live/2312211/1616616/167576.ts
+
 
 
 
