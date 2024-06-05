@@ -50,7 +50,7 @@ https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
 #EXTINF:-32 tvg-logo="https://i.ibb.co/ngBwRhk/image-search-1713978868744.png"group-title="",Bangla Tv
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #EXTINF:-36 tvg-logo="https://i.ibb.co/Bjy7nPP/image-search-1713979010421.jpg"group-title="",T Sports
-https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=LY7Ejc0HQBAQWvKtDtyhpw&expires=1717543088&user=c15be118d93a464dabf77260596012cf
+http://starshare.live:8080/live/T20C227070225533/202210886677/52500.ts
 #EXTINF:-37 tvg-logo="https://i.ibb.co/mtpsbsz/IMG-20240425-084651.jpg"group-title="",Nexus Tv
 https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:-38 tvg-logo="https://i.ibb.co/4SMw1xd/image-search-1713979090924.png"group-title="",Ekhon
@@ -62,9 +62,9 @@ https://fsdsdad.b-cdn.net/302/tracks-v1a1/mono.m3u8?token=romijul-jes-2028
 #EXTINF:-42 tvg-logo="https://i.ibb.co/Th0ZcPM/20240427-172401.jpg"group-title="Kolkata",Star Jalsha HD
 https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 #EXTINF:-43 tvg-logo="https://i.ibb.co/dQ7fsJf/20240428-025157.jpg"group-title="Kolkata",Zee Bangla HD
-http://sansat.net:88/02029761595924/9d089925dc60a821/100716
+https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=QKqk0WyGwN1-uVDsX5NgLg&expires=1717706274&user=ff39d05fef074902838
 #EXTINF:-44 tvg-logo="https://i.ibb.co/pWP5kZB/20240428-025953.jpg"group-title="Kolkata",Zee Bangla HD
-http://tv.cloudcdn.me:80/live.ts?channelId=120&uid=6140&deviceMac=00:1A:79:C1:9A:8C
+http://sansat.net:88/02029761595924/9d089925dc60a821/100716
 #EXTINF:-45 tvg-logo="https://i.ibb.co/0cgX3Bx/image-search-1713979185077.png"group-title="",Colors Bangla HD
 http://watchindia.net:8880/live/83023/62335/2284.m3u8
 #EXTINF:-46 tvg-logo="https://i.ibb.co/0cgX3Bx/image-search-1713979185077.png"group-title="",Colors Bangla 
