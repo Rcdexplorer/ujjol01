@@ -53,9 +53,9 @@ https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 https://tv5.hoichoi24.com/1026/tracks-v1a1/mono.m3u8
 #EXTINF:-41 tvg-logo="https://i.ibb.co/vw1MS9R/20240427-171803.jpg"group-title="Kolkata",Star Jalsha HD
 http://tv.cloudcdn.me/live.ts?channelId=116&uid=8164&deviceMac=00:1A:79:17:D4:A1
-#EXTINF:-42 tvg-logo="https://i.ibb.co/Th0ZcPM/20240427-172401.jpg"group-title="Kolkata",Star Jalsha HD
+#EXTINF:-42 tvg-logo="https://i.ibb.co/Th0ZcPM/20240427-172401.jpg"group-title="Kolkata",Star Jalsha
 http://tv.cloudcdn.me/live.ts?channelId=116&uid=8164&deviceMac=00:1A:79:17:D4:A1
-#EXTINF:-43 tvg-logo="https://i.ibb.co/dQ7fsJf/20240428-025157.jpg"group-title="Kolkata",Zee Bangla HD
+#EXTINF:-43 tvg-logo="https://i.ibb.co/dQ7fsJf/20240428-025157.jpg"group-title="Kolkata",Zee Bangla
 https://tv5.hoichoi24.com/1405/index.m3u8
 #EXTINF:-44 tvg-logo="https://i.ibb.co/pWP5kZB/20240428-025953.jpg"group-title="Kolkata",Zee Bangla HD
 http://tv.cloudcdn.me:80/live.ts?channelId=120&uid=6140&deviceMac=00:1A:79:C1:9A:8C
