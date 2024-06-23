@@ -4,7 +4,7 @@ https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
 #EXTINF:-4 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangla",ATN Bangla
 https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-6 tvg-logo="https://i.ibb.co/dbQdv09/20240430-071817.jpg"group-title="",Channel I
-https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/playlist.m3u8
+https://livess.ncare.live/live-orgin/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-7 tvg-logo="https://i.ibb.cok8MT30Q/image-search-1713977978851.png"group-title="",Ekushey Tv
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-9 tvg-logo="https://i.ibb.co/jfcMK4H/image-search-1713977726315.png"group-title="",RTV
@@ -24,7 +24,7 @@ https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 #EXTINF:-22 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIAuliIifLYXySFw1QHwA1DLN-ZlE9jdDinJvGyL1V5kQxRTuPk7dxSGfd&s=10" group-title="",Star sports1
 http://lifetvbd.xyz:8080/play/vGBeUY6aADDbWSRltLByLMl3UmHrop7iPO1Dnwz_v7Y/ts
 #EXTINF:-23 tvg-logo="https://i.ibb.co/Fg280Bg/image-search-1713979527326.png"group-title="",Star Sports 2
-http://opplex.tv:8080/live/2312211/1616616/167576.ts
+http://xtv.ooo:8080/live/27388829/92888372/167576.ts
 #EXTINF:-24 tvg-logo="https://i.ibb.co/2qvTfn6/image-search-1713978430151.png"group-title="",Ekattor Tv
 https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
 #EXTINF:-25 tvg-logo="https://i.ibb.co/VwDwmPC/image-search-1713978458022.png"group-title="",Asian Tv
@@ -54,11 +54,11 @@ https://tv5.hoichoi24.com/1026/tracks-v1a1/mono.m3u8
 #EXTINF:-41 tvg-logo="https://i.ibb.co/vw1MS9R/20240427-171803.jpg"group-title="Kolkata",Star Jalsha HD
 http://tv.cloudcdn.me/live.ts?channelId=116&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #EXTINF:-42 tvg-logo="https://i.ibb.co/Th0ZcPM/20240427-172401.jpg"group-title="Kolkata",Star Jalsha
-http://tv.cloudcdn.me/live.ts?channelId=116&uid=8164&deviceMac=00:1A:79:17:D4:A1
+https://fmrx.short.gy/Star_Jalsha_HD/Join@AbidDthOfficial/ABID_DTH.ts
 #EXTINF:-43 tvg-logo="https://i.ibb.co/dQ7fsJf/20240428-025157.jpg"group-title="Kolkata",Zee Bangla
 https://tv5.hoichoi24.com/1405/index.m3u8
 #EXTINF:-44 tvg-logo="https://i.ibb.co/pWP5kZB/20240428-025953.jpg"group-title="Kolkata",Zee Bangla HD
-http://tv.cloudcdn.me:80/live.ts?channelId=120&uid=6140&deviceMac=00:1A:79:C1:9A:8C
+https://evbr.short.gy/BDStreamHub/zee_bangla.m3u
 #EXTINF:-45 tvg-logo="https://i.ibb.co/0cgX3Bx/image-search-1713979185077.png"group-title="",Colors Bangla HD
 http://tv.cloudcdn.me/live.ts?channelId=92&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #EXTINF:-46 tvg-logo="https://i.ibb.co/0cgX3Bx/image-search-1713979185077.png"group-title="",Colors Bangla 
@@ -70,7 +70,7 @@ https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg0
 #EXTINF:-49 tvg-logo="https://i.ibb.co/j4P1g9P/IMG-20240430-064226.png"group-title="",Zee Bangla Cinema 
 http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/2351.ts
 #EXTINF:-50 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png"group-title="",Sony Tv
-http://170.254.18.107/SONY/index.m3u8
+http://xtv.ooo:8080/live/27388829/92888372/221251.ts
 #EXTINF:-51 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png"group-title="",Zee Tv
 http://xtv.ooo:8080/live/27388829/92888372/66162.ts
 #EXTINF:-52 tvg-logo="https://i.ibb.co/42Yw1qR/IMG-20240320-115701.jpg"group-title="",Kids cartoon
