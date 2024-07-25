@@ -52,11 +52,11 @@ https://tv5.hoichoi24.com/1026/tracks-v1a1/mono.m3u8
 #EXTINF:-41 tvg-logo="https://i.ibb.co/vw1MS9R/20240427-171803.jpg"group-title="Kolkata",Star Jalsha HD
 http://humsab.xyz/IN_STARJ/index.m3u8?token=2a6118c76d56d6c76fa0dd9138689ec0
 #EXTINF:-42 tvg-logo="https://i.ibb.co/Th0ZcPM/20240427-172401.jpg"group-title="Kolkata",Star Jalsha
-http://103.109.56.116/live/funtime112/index.m3u8
+http://xtv.ooo:8080/live/27388829/92888372/245898.ts
 #EXTINF:-43 tvg-logo="https://i.ibb.co/dQ7fsJf/20240428-025157.jpg"group-title="Kolkata",Zee Bangla
 https://tv5.hoichoi24.com/1405/index.m3u8
 #EXTINF:-44 tvg-logo="https://i.ibb.co/pWP5kZB/20240428-025953.jpg"group-title="Kolkata",Zee Bangla HD
-http://103.109.56.116/live/funtime111/index.m3u8
+http://xtv.ooo:8080/live/27388829/92888372/245893.ts
 #EXTINF:-45 tvg-logo="https://i.ibb.co/0cgX3Bx/image-search-1713979185077.png"group-title="",Colors Bangla HD
 http://xtv.ooo:8080/live/574453/774499/245895.ts
 #EXTINF:-46 tvg-logo="https://i.ibb.co/0cgX3Bx/image-search-1713979185077.png"group-title="",Colors Bangla 
