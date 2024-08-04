@@ -10,7 +10,7 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-9 tvg-logo="https://i.ibb.co/jfcMK4H/image-search-1713977726315.png"group-title="",RTV
 http://xtv.ooo:8080/live/27388829/92888372/245911.ts
 #EXTINF:-10 tvg-logo="https://i.ibb.co/mv6Y8JQ/image-search-1713977856611.png"group-title="",Boishakhi TV
-https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+http://xtv.ooo:8080/live/237985/258952/245923.ts
 #EXTINF:-11 tvg-logo="https://i.ibb.co/R4W5RM3/image-search-1713978022108.png"group-title="",Bangla Vision
 http://xtv.ooo:8080/live/27388829/92888372/245957.ts
 #EXTINF:-17 tvg-logo="https://i.ibb.co/CvWhgdq/image-search-1713978245283.png"group-title="",Somoy Tv
