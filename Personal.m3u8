@@ -56,7 +56,7 @@ http://103.151.60.174/manikvai@hoichoi24.com
 #EXTINF:-43 tvg-logo="https://i.ibb.co/dQ7fsJf/20240428-025157.jpg"group-title="Kolkata",Zee Bangla
 https://tv5.hoichoi24.com/1405/index.m3u8
 #EXTINF:-44 tvg-logo="https://i.ibb.co/pWP5kZB/20240428-025953.jpg"group-title="Kolkata",Zee Bangla HD
-http://103.151.60.174:7171/hoichoi24.com-manik-vai/index.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
 #EXTINF:-45 tvg-logo="https://i.ibb.co/0cgX3Bx/image-search-1713979185077.png"group-title="",Colors Bangla HD
 http://xtv.ooo:8080/live/27388829/92888372/245895.ts
 #EXTINF:-46 tvg-logo="https://i.ibb.co/0cgX3Bx/image-search-1713979185077.png"group-title="",Colors Bangla 
