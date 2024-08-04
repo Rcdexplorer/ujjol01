@@ -28,7 +28,7 @@ http://xtv.ooo:8080/live/27388829/92888372/167576.ts
 #EXTINF:-24 tvg-logo="https://i.ibb.co/2qvTfn6/image-search-1713978430151.png"group-title="",Ekattor Tv
 https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
 #EXTINF:-25 tvg-logo="https://i.ibb.co/VwDwmPC/image-search-1713978458022.png"group-title="",Asian Tv
-https://mtlivestream.site/asian/ytlive/index.m3u8
+https://mtlivestream.com/asian/ytlive/index.m3u8
 #EXTINF:-26 tvg-logo="https://i.ibb.co/VQ1gfpf/image-search-1713978502377.jpg"group-title="",SA TV
 http://xtv.ooo:8080/live/27388829/92888372/245945.ts
 #EXTINF:-27 tvg-logo="https://i.ibb.co/m8VV6kV/image-search-1714012548366.jpg"group-title="",Jamuna Tv
@@ -56,7 +56,7 @@ http://103.151.60.174/manikvai@hoichoi24.com
 #EXTINF:-43 tvg-logo="https://i.ibb.co/dQ7fsJf/20240428-025157.jpg"group-title="Kolkata",Zee Bangla
 https://tv5.hoichoi24.com/1405/index.m3u8
 #EXTINF:-44 tvg-logo="https://i.ibb.co/pWP5kZB/20240428-025953.jpg"group-title="Kolkata",Zee Bangla HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
+http://103.151.60.174:7171/hoichoi24.com-manik-vai/index.m3u8
 #EXTINF:-45 tvg-logo="https://i.ibb.co/0cgX3Bx/image-search-1713979185077.png"group-title="",Colors Bangla HD
 http://xtv.ooo:8080/live/27388829/92888372/245895.ts
 #EXTINF:-46 tvg-logo="https://i.ibb.co/0cgX3Bx/image-search-1713979185077.png"group-title="",Colors Bangla 
