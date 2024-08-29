@@ -10,23 +10,23 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-9 tvg-logo="https://i.ibb.co/jfcMK4H/image-search-1713977726315.png"group-title="",RTV
 http://xtv.ooo:8080/live/27388829/92888372/245911.ts
 #EXTINF:-10 tvg-logo="https://i.ibb.co/mv6Y8JQ/image-search-1713977856611.png"group-title="",Boishakhi TV
-http://xtv.ooo:8080/live/237985/258952/245923.ts
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-11 tvg-logo="https://i.ibb.co/R4W5RM3/image-search-1713978022108.png"group-title="",Bangla Vision
 http://xtv.ooo:8080/live/27388829/92888372/245957.ts
 #EXTINF:-17 tvg-logo="https://i.ibb.co/CvWhgdq/image-search-1713978245283.png"group-title="",Somoy Tv
 http://xtv.ooo:8080/live/27388829/92888372/245925.ts
 #EXTINF:-18 tvg-logo="https://i.ibb.co/NttrW6h/image-search-1713978282196.png"group-title="",Independent TV
-https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
+https://edge01.iptv.digijadoo.net/live/independent_tv/playlist.m3u8?md5=ejEJNNTotjcJIRuckXKqFA&expires=1725134398&user=ef71b837ceef4cd18a6cf7069722d83d
 #EXTINF:-19 tvg-logo="https://i.ibb.co/YXWq4Kt/image-search-1713978311115.jpg"group-title="",Maasranga TV
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-21 tvg-logo="https://i.ibb.co/SymD25x/20240428-030221.png"group-title="",Channel 24
-https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
+https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=m_M7IcAOGXDP8pFIEZ3fNA&expires=1725000460&user=ef71b837ceef4cd18a6cf7069722d83d
 #EXTINF:-22 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIAuliIifLYXySFw1QHwA1DLN-ZlE9jdDinJvGyL1V5kQxRTuPk7dxSGfd&s=10" group-title="",Star sports1
 http://xtv.ooo:8080/live/27388829/92888372/167575.ts
 #EXTINF:-23 tvg-logo="https://i.ibb.co/Fg280Bg/image-search-1713979527326.png"group-title="",Star Sports 2
 http://xtv.ooo:8080/live/27388829/92888372/167576.ts
 #EXTINF:-24 tvg-logo="https://i.ibb.co/2qvTfn6/image-search-1713978430151.png"group-title="",Ekattor Tv
-https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
+https://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=qZD2O93eyAlz3N3n1-SOGA&expires=1725000520&user=ef71b837ceef4cd18a6cf7069722d83d
 #EXTINF:-25 tvg-logo="https://i.ibb.co/VwDwmPC/image-search-1713978458022.png"group-title="",Asian Tv
 https://mtlivestream.com/asian/ytlive/index.m3u8
 #EXTINF:-26 tvg-logo="https://i.ibb.co/VQ1gfpf/image-search-1713978502377.jpg"group-title="",SA TV
