@@ -15,18 +15,18 @@ https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 http://xtv.ooo:8080/live/27388829/92888372/245957.ts
 #EXTINF:-17 tvg-logo="https://i.ibb.co/CvWhgdq/image-search-1713978245283.png"group-title="",Somoy Tv
 http://xtv.ooo:8080/live/27388829/92888372/245925.ts
-#EXTINF:-18 tvg-logo=""group-title="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaQ_sz70bWs35CVJi1j9tmuTC3kModienShQ&s",Independent TV
+#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaQ_sz70bWs35CVJi1j9tmuTC3kModienShQ&s"group-title="",Independent TV
 https://edge01.iptv.digijadoo.net/live/independent_tv/playlist.m3u8?md5=ejEJNNTotjcJIRuckXKqFA&expires=1725134398&user=ef71b837ceef4cd18a6cf7069722d83d
 #EXTINF:-19 tvg-logo="https://i.ibb.co/YXWq4Kt/image-search-1713978311115.jpg"group-title="",Maasranga TV
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-21 tvg-logo="https://i.ibb.co/SymD25x/20240428-030221.png"group-title="",Channel 24
-https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=m_M7IcAOGXDP8pFIEZ3fNA&expires=1725000460&user=ef71b837ceef4cd18a6cf7069722d83d
+https://ythls-v3.onrender.com/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 #EXTINF:-22 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIAuliIifLYXySFw1QHwA1DLN-ZlE9jdDinJvGyL1V5kQxRTuPk7dxSGfd&s=10" group-title="",Star sports1
 http://xtv.ooo:8080/live/27388829/92888372/167575.ts
 #EXTINF:-23 tvg-logo="https://i.ibb.co/Fg280Bg/image-search-1713979527326.png"group-title="",Star Sports 2
 http://xtv.ooo:8080/live/27388829/92888372/167576.ts
 #EXTINF:-24 tvg-logo="https://i.ibb.co/2qvTfn6/image-search-1713978430151.png"group-title="",Ekattor Tv
-https://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=qZD2O93eyAlz3N3n1-SOGA&expires=1725000520&user=ef71b837ceef4cd18a6cf7069722d83d
+http://xtv.ooo:8080/global/global/245915
 #EXTINF:-25 tvg-logo="https://i.ibb.co/VwDwmPC/image-search-1713978458022.png"group-title="",Asian Tv
 https://mtlivestream.com/asian/ytlive/index.m3u8
 #EXTINF:-26 tvg-logo="https://i.ibb.co/VQ1gfpf/image-search-1713978502377.jpg"group-title="",SA TV
@@ -46,7 +46,7 @@ https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #EXTINF:-36 tvg-logo="https://i.ibb.co/Bjy7nPP/image-search-1713979010421.jpg"group-title="",T Sports
 https://is.gd/fjzUeK
 #EXTINF:-38 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/News24_%28website%29_logo.svg/1200px-News24_%28website%29_logo.svg.png"group-title="",News 24
-https://edge01.iptv.digijadoo.net/live/news_24_hd/playlist.m3u8?md5=TUVYe-ZPbVCxxSLskfypiw&expires=1725000577&user=ef71b837ceef4cd18a6cf7069722d83d
+http://tv.cloudcdn.me:80/live.ts?channelId=107&uid=13556&deviceMac=00:1A:79:AB:DF:A6
 #EXTINF:-39 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/PTV_Logo.png"group-title="",PTV
 https://test-tan-iota-90.vercel.app/live/bdix/app/PtvSports.m3u8
 #EXTINF:-41 tvg-logo="https://i.ibb.co/vw1MS9R/20240427-171803.jpg"group-title="Kolkata",Star Jalsha HD
