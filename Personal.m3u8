@@ -44,7 +44,7 @@ http://xtv.ooo:8080/live/27388829/92888372/238506.ts
 #EXTINF:-32 tvg-logo="https://i.ibb.co/ngBwRhk/image-search-1713978868744.png"group-title="",Bangla Tv
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #EXTINF:-36 tvg-logo="https://i.ibb.co/Bjy7nPP/image-search-1713979010421.jpg"group-title="",T Sports
-https://is.gd/fjzUeK
+https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=9qzD5JdAhpx6GENQEhKhlg&expires=1725255517&user=8333f5cef8e441a0abd75ae8344d39d7
 #EXTINF:-38 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/News24_%28website%29_logo.svg/1200px-News24_%28website%29_logo.svg.png"group-title="",News 24
 http://tv.cloudcdn.me:80/live.ts?channelId=107&uid=13556&deviceMac=00:1A:79:AB:DF:A6
 #EXTINF:-39 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/PTV_Logo.png"group-title="",PTV
@@ -54,7 +54,7 @@ http://humsab.xyz/IN_STARJ/index.m3u8?token=2a6118c76d56d6c76fa0dd9138689ec0
 #EXTINF:-42 tvg-logo="https://i.ibb.co/Th0ZcPM/20240427-172401.jpg"group-title="Kolkata",Star Jalsha
 http://103.151.60.174/manikvai@hoichoi24.com
 #EXTINF:-43 tvg-logo="https://i.ibb.co/dQ7fsJf/20240428-025157.jpg"group-title="Kolkata",Zee Bangla
-https://is.gd/pmIeFR
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/zeebangla1-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-44 tvg-logo="https://i.ibb.co/pWP5kZB/20240428-025953.jpg"group-title="Kolkata",Zee Bangla HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
 #EXTINF:-45 tvg-logo="https://i.ibb.co/0cgX3Bx/image-search-1713979185077.png"group-title="",Colors Bangla HD
