@@ -68,7 +68,7 @@ http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/SONY-AATH/live.mpd
 #EXTINF:-48 tvg-logo="https://i.ibb.co/zRKxWnm/image-search-1713980037798.jpg"group-title="",Entar 10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 #EXTINF:-49 tvg-logo="https://i.ibb.co/j4P1g9P/IMG-20240430-064226.png"group-title="",Zee Bangla Cinema 
-http://103.124.251.164:28015/play/a00v/index.m3u8
+http://103.124.251.164:28015/play/a035/index.m3u8
 #EXTINF:-50 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png"group-title="",Sony Tv
 http://xtv.ooo:8080/live/27388829/92888372/221251.ts
 #EXTINF:-51 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png"group-title="",Zee Tv
