@@ -58,7 +58,7 @@ http://103.175.242.10:8080/22-StarJalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-43 tvg-logo="https://i.ibb.co/dQ7fsJf/20240428-025157.jpg"group-title="Kolkata",Zee Bangla
 http://103.175.242.10:8080/23-ZeeBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-44 tvg-logo="https://i.ibb.co/pWP5kZB/20240428-025953.jpg"group-title="Kolkata",Zee Bangla HD
-http://203.76.254.153/live/c0:23:8d:96:15:22/44D11F/108850.ts?token=SEReU0dfFg8WVlYADQABBgcLBQINVVFaBVZRVVILXQ1SVldWDVEFDVAWGxRGRUZWVl9tXVAWWAgDWg8GAR9HQUADRG1dUxYPFgUHDw0HDAEVHhBAXVkHGwlTAAAAAlAEAlACHhZHXVEWDhUCBgQEAxUeEFFMQAdLXQNbbFVWE11QAxQIWkJYWRgWWFhqVVFeVlxWFg4WUhsfQF5AQRFfWkYKWh4WVV1BRlVDUxcLFgIFAQQWGBYBVkYMQ0FIEV8WcSIUHhZSTEFRWkRfWl8WCRVGQRYYFgtKbBBSQEVBAFVeA0QQDhUEFxgWWldNbldcWVxXV0BdDVdAQA0RABFJFl4JWFtAWEZqRF1TFA8TAAsDARAYFkERXEE9XkMTCUcFA1UYAwMGGgcHBhkHAAEWTg==
+http://xtv.ooo:8080/live/global/global/245893.m3u8
 #EXTINF:-45 tvg-logo="https://i.ibb.co/0cgX3Bx/image-search-1713979185077.png"group-title="",Colors Bangla HD
 http://bd.ottbd.online:2082/live/rozario859/01327184859/2178.m3u8
 #EXTINF:-46 tvg-logo="https://i.ibb.co/0cgX3Bx/image-search-1713979185077.png"group-title="",Colors Bangla 
