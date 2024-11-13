@@ -12,7 +12,7 @@ http://xtv.ooo:8080/live/27388829/92888372/245911.ts
 #EXTINF:-10 tvg-logo="https://i.ibb.co/mv6Y8JQ/image-search-1713977856611.png"group-title="",Boishakhi TV
 https://starshare.live:443/live/3569087360/6542246996/429.ts
 #EXTINF:-11 tvg-logo="https://i.ibb.co/R4W5RM3/image-search-1713978022108.png"group-title="",Bangla Vision
-http://starshare.live:8080/live/Leroy123/Leroy123/426.ts
+http://103.175.242.10:8080/banglavision/index.m3u8
 #EXTINF:-17 tvg-logo="https://i.ibb.co/CvWhgdq/image-search-1713978245283.png"group-title="",Somoy Tv
 https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 #EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaQ_sz70bWs35CVJi1j9tmuTC3kModienShQ&s"group-title="",Independent TV
@@ -22,7 +22,7 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-20 tvg-logo="https://i.ibb.co/SymD25x/20240428-030221.png"group-title="",Channel 24
 https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 #EXTINF:-21 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF"group-title="",Atn news
-http://103.175.242.10:8080/19-Atnnews/tracks-v1a1/mono.m3u8
+http://bapatv.live:8080/atnnews/index.m3u8
 #EXTINF:-22 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIAuliIifLYXySFw1QHwA1DLN-ZlE9jdDinJvGyL1V5kQxRTuPk7dxSGfd&s=10" group-title="",Star sports1
 http://xtv.ooo:8080/live/27388829/92888372/167575.ts
 #EXTINF:-23 tvg-logo="https://i.ibb.co/Fg280Bg/image-search-1713979527326.png"group-title="",Star Sports 2
