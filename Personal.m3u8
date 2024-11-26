@@ -72,7 +72,7 @@ http://tv.cloudcdn.me/live.ts?channelId=119&uid=15585&deviceMac=00:1A:79:D9:7F:B
 #EXTINF:-50 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png"group-title="",Sony Tv
 http://xtv.ooo:8080/live/27388829/92888372/221251.ts
 #EXTINF:-51 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png"group-title="",Zee Tv
-http://217.20.112.199/zeetvhd/index.m3u8
+http://103.110.110.11:8081/live/zeetv/playlist.m3u8
 #EXTINF:-52 tvg-logo="https://i.ibb.co/42Yw1qR/IMG-20240320-115701.jpg"group-title="",Kids cartoon
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 #EXTINF:-53 tvg-logo="https://i.ibb.co/7b5WJ7c/20240430-200700.png"group-title="KIDS",Jugnu Kids Bangla
