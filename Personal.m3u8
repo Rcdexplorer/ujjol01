@@ -46,7 +46,7 @@ http://xtv.ooo:8080/live/27388829/92888372/238506.ts
 #EXTINF:-32 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png"group-title="",Gazi Tv
 http://103.175.242.10:8080/gtv2/tracks-v1a1/mono.m3u8
 #EXTINF:-36 tvg-logo="https://i.ibb.co/Bjy7nPP/image-search-1713979010421.jpg"group-title="",T Sports
-http://172.19.178.49:18190/sn-starsports2/index.m3u8
+http://103.175.242.10:8080/tsports2/tracks-v1a1/mono.m3u8
 #EXTINF:-38 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/News24_%28website%29_logo.svg/1200px-News24_%28website%29_logo.svg.png"group-title="",News 24
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjE5OjUzIFBNJmhhc2hfdmFsdWU9dDV2TlpGTUFWUzYyODZndmtsOGphUT09JnZhbGlkbWludXRlcz00MA==
 #EXTINF:-39 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/PTV_Logo.png"group-title="",PTV
