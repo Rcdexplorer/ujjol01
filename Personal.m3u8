@@ -43,8 +43,8 @@ https://ythls.armelin.one/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-31 tvg-logo="https://i.ibb.co/3f8H2HC/20240430-083911.png"group-title="",BBC News
 http://xtv.ooo:8080/live/27388829/92888372/238506.ts
-#EXTINF:-32 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png"group-title="",Gazi Tv
-http://103.175.242.10:8080/gtv2/tracks-v1a1/mono.m3u8
+#EXTINF:-32 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png"group-title="",MY Tv
+https://mytvbangla.com/0.m3u8
 #EXTINF:-36 tvg-logo="https://i.ibb.co/Bjy7nPP/image-search-1713979010421.jpg"group-title="",T Sports
 http://xtv.ooo:8080/live/Irfan99383/8888/167590.ts
 #EXTINF:-38 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/News24_%28website%29_logo.svg/1200px-News24_%28website%29_logo.svg.png"group-title="",News 24
