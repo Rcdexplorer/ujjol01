@@ -42,7 +42,7 @@ https://ythls.armelin.one/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
 #EXTINF:-30 tvg-logo="https://i.ibb.co/9Hd3DwV/image-search-1713979940103.jpg"group-title="",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-31 tvg-logo="https://i.ibb.co/3f8H2HC/20240430-083911.png"group-title="",BBC News
-http://xtv.ooo:8080/live/27388829/92888372/238506.ts
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8?v=1
 #EXTINF:-32 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/My_TV_Logo.svg/1280px-My_TV_Logo.svg.png"group-title="",MY Tv
 https://mytvbangla.com/0.m3u8
 #EXTINF:-36 tvg-logo="https://i.ibb.co/Bjy7nPP/image-search-1713979010421.jpg"group-title="",T Sports
