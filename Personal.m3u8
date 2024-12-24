@@ -48,7 +48,7 @@ https://mytvbangla.com/0.m3u8
 #EXTINF:-36 tvg-logo="https://i.ibb.co/Bjy7nPP/image-search-1713979010421.jpg"group-title="",T Sports
 http://xtv.ooo:8080/live/Irfan99383/8888/167590.ts
 #EXTINF:-38 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/News24_%28website%29_logo.svg/1200px-News24_%28website%29_logo.svg.png"group-title="",News 24
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjE5OjUzIFBNJmhhc2hfdmFsdWU9dDV2TlpGTUFWUzYyODZndmtsOGphUT09JnZhbGlkbWludXRlcz00MA==
+https://static.jagobd.com.bd/live-orgin/news24local.stream/playlist.m3u8|referer=https://www.jagobd.com
 #EXTINF:-39 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/PTV_Logo.png"group-title="",PTV
 http://175.107.244.52:4457/play/a08g/index.m3u8
 #EXTINF:-41 tvg-logo="https://i.ibb.co/vw1MS9R/20240427-171803.jpg"group-title="Kolkata",Star Jalsha HD
