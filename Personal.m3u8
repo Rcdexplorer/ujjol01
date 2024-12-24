@@ -39,8 +39,8 @@ https://static.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/playlist.m3
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-29 tvg-logo="https://i.ibb.co/D8jkRyK/20240430-083154.png"group-title="",DBC News
 https://static.jagobd.com.bd/live-orgin/dbcnews.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-30 tvg-logo="https://i.ibb.co/9Hd3DwV/image-search-1713979940103.jpg"group-title="",Movie Bangla
-http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-30 tvg-logo="https://i.ibb.co/9Hd3DwV/image-search-1713979940103.jpg"group-title="",Gazi Tv
+https://static.jagobd.com.bd/live-orgin/gazibd.stream/playlist.m3u8|referer=https://www.jagobd.com
 #EXTINF:-31 tvg-logo="https://i.ibb.co/3f8H2HC/20240430-083911.png"group-title="",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8?v=1
 #EXTINF:-32 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/My_TV_Logo.svg/1280px-My_TV_Logo.svg.png"group-title="",MY Tv
