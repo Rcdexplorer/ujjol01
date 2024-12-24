@@ -38,7 +38,7 @@ https://ythls.armelin.one/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
 #EXTINF:-28 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png"group-title="",Deepto Tv 
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-29 tvg-logo="https://i.ibb.co/D8jkRyK/20240430-083154.png"group-title="",DBC News
-https://ythls.armelin.one/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
+https://static.jagobd.com.bd/live-orgin/dbcnews.stream/playlist.m3u8|referer=https://www.jagobd.com
 #EXTINF:-30 tvg-logo="https://i.ibb.co/9Hd3DwV/image-search-1713979940103.jpg"group-title="",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-31 tvg-logo="https://i.ibb.co/3f8H2HC/20240430-083911.png"group-title="",BBC News
