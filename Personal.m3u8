@@ -28,13 +28,13 @@ https://drm.neeplay.workers.dev/drm1/smil:starsports1drm.smil/index.m3u8|Referer
 #EXTINF:-23 tvg-logo="https://i.ibb.co/Fg280Bg/image-search-1713979527326.png"group-title="",Star Sports 2
 https://drm.neeplay.workers.dev/drm1/smil:starsports2drm.smil/index.m3u8|Referer=https://neesports.nl/
 #EXTINF:-24 tvg-logo="https://i.ibb.co/2qvTfn6/image-search-1713978430151.png"group-title="",Ekattor Tv
-http://xtv.ooo/live/193747281/8284748291/245915.ts
+http://103.163.247.39:80/local_out/ekattortv/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-25 tvg-logo="https://i.ibb.co/VwDwmPC/image-search-1713978458022.png"group-title="",Asian Tv
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
+http://103.163.247.39:80/local_out/asiantv/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-26 tvg-logo="https://i.ibb.co/VQ1gfpf/image-search-1713978502377.jpg"group-title="",SA TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjI0OjI0IFBNJmhhc2hfdmFsdWU9NFVtczdRVy9Jc3NRQmlZVzJVRFhwQT09JnZhbGlkbWludXRlcz00MA==
+http://103.163.247.39:80/local_out/satv/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-27 tvg-logo="https://i.ibb.co/m8VV6kV/image-search-1714012548366.jpg"group-title="",Jamuna Tv
-https://app.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
+http://103.163.247.39:80/local_out/jamunatv/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-28 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png"group-title="",Deepto Tv 
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-29 tvg-logo="https://i.ibb.co/D8jkRyK/20240430-083154.png"group-title="",DBC News
