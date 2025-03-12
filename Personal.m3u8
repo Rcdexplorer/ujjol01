@@ -1,22 +1,22 @@
 #EXTM3U
 #EXTINF:-3 tvg-logo="https://i.ibb.co/Kw9Ky36/image-search-1714009351777.png"group-title="",NTV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjIxOjE1IFBNJmhhc2hfdmFsdWU9VVp0OWNxYjN5TlRUc0t5WmNTUFVKUT09JnZhbGlkbWludXRlcz00MA==
+http://103.163.247.39:80/local_out/ntv/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-4 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangla",ATN Bangla
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyNCAzOjI1OjUzIEFNJmhhc2hfdmFsdWU9UE5iWFJ4Y0YyTmtNTC95U0RCcVQ2QT09JnZhbGlkbWludXRlcz02MCZpZD01
+http://103.163.247.39:80/local_out/atnbangla/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-6 tvg-logo="https://i.ibb.co/dbQdv09/20240430-071817.jpg"group-title="",Channel I
-https://app.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
+http://103.163.247.39:80/local_out/channeli/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-7 tvg-logo="https://i.ibb.co/zPFbF67/20240826-230349.png"group-title="",Ekushey Tv
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-9 tvg-logo="https://i.ibb.co/jfcMK4H/image-search-1713977726315.png"group-title="",RTV
-https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
+http://103.163.247.39:80/local_out/rtv/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-10 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Desh_tv_logo.jpg/640px-Desh_tv_logo.jpg"group-title="",Desh Tv
 https://allinonereborn.com/test.m3u8?id=11904
 #EXTINF:-11 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/2/2c/%E0%A6%8F%E0%A6%96%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png"group-title="",Ekhon Tv
 http://kst.moonplex.net:8080/CH7/index.m3u8
 #EXTINF:-17 tvg-logo="https://i.ibb.co/CvWhgdq/image-search-1713978245283.png"group-title="",Somoy Tv
-https://allinonereborn.com/test.m3u8?id=11874
+http://103.163.247.39:80/local_out/somoytv/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaQ_sz70bWs35CVJi1j9tmuTC3kModienShQ&s"group-title="",Independent TV
-https://cdn.hoichoi24.com/IndBD/video.m3u8
+http://103.163.247.39:80/local_out/independenttv/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-19 tvg-logo="https://i.ibb.co/YXWq4Kt/image-search-1713978311115.jpg"group-title="",Maasranga TV
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-20 tvg-logo="https://i.ibb.co/SymD25x/20240428-030221.png"group-title="",Channel 24
@@ -38,7 +38,7 @@ https://app.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
 #EXTINF:-28 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png"group-title="",Deepto Tv 
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-29 tvg-logo="https://i.ibb.co/D8jkRyK/20240430-083154.png"group-title="",DBC News
-http://xtv.ooo/live/193747281/8284748291/245914.ts
+http://103.163.247.39:80/local_out/dbcnews/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-30 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png"group-title="",Gazi Tv
 https://app.ncare.live/live-orgin/gazibd.stream/playlist.m3u8
 #EXTINF:-31 tvg-logo="https://i.ibb.co/3f8H2HC/20240430-083911.png"group-title="",BBC News
