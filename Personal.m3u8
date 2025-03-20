@@ -60,7 +60,7 @@ http://kst.moonplex.net:8080/CH4/index.m3u8
 #EXTINF:-44 tvg-logo="https://i.ibb.co/pWP5kZB/20240428-025953.jpg"group-title="Kolkata",Zee Bangla HD
 https://t.kyni.us/jadu/jadoo.php?id=zee_bangla
 #EXTINF:-45 tvg-logo="https://i.ibb.co/0cgX3Bx/image-search-1713979185077.png"group-title="",Colors Bangla HD
-https://colorsscreen.com/live.php?id=1369&extension=.m3u8|referer=https://colorsscreen.com/&origin=https://colorsscreen.com/
+http://watchindia.net:8880/live/06864/31245/2284.ts
 #EXTINF:-46 tvg-logo="https://i.ibb.co/0cgX3Bx/image-search-1713979185077.png"group-title="",Colors Bangla 
 http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2769.ts
 #EXTINF:-47 tvg-logo="https://i.ibb.co/Qdt2F6v/image-search-1713979222513.png"group-title="",Sony aath
