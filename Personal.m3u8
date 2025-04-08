@@ -28,7 +28,7 @@ https://streamingxfireflix.vercel.app/api/stream?id=109987.m3u8
 #EXTINF:-23 tvg-logo="https://i.ibb.co/Fg280Bg/image-search-1713979527326.png"group-title="",Star Sports 2
 http://watchindia.net:8880/live/06864/31245/1069.ts
 #EXTINF:-24 tvg-logo="https://i.ibb.co/2qvTfn6/image-search-1713978430151.png"group-title="",Ekattor Tv
-http://103.163.247.39/local_out/ekattortv/video.m3u8?token=At5F1MFZYnciB3
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:-25 tvg-logo="https://i.ibb.co/VwDwmPC/image-search-1713978458022.png"group-title="",Asian Tv
 http://103.163.247.39:80/local_out/asiantv/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-26 tvg-logo="https://i.ibb.co/VQ1gfpf/image-search-1713978502377.jpg"group-title="",SA TV
