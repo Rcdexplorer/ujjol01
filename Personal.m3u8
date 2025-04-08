@@ -34,7 +34,7 @@ http://103.163.247.39:80/local_out/asiantv/tracks-v1a1/mono.m3u8?token=At5F1MFZY
 #EXTINF:-26 tvg-logo="https://i.ibb.co/VQ1gfpf/image-search-1713978502377.jpg"group-title="",SA TV
 http://103.163.247.39:80/local_out/satv/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-27 tvg-logo="https://i.ibb.co/m8VV6kV/image-search-1714012548366.jpg"group-title="",Jamuna Tv
-http://103.163.247.39:80/local_out/jamunatv/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-28 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png"group-title="",Deepto Tv 
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-29 tvg-logo="https://i.ibb.co/D8jkRyK/20240430-083154.png"group-title="",DBC News
