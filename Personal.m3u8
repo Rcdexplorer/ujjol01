@@ -52,9 +52,7 @@ https://re-streaming-xfireflix.vercel.app/api/OPX/245903.m3u8
 #EXTINF:-39 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/PTV_Logo.png"group-title="",PTV
 http://175.107.244.52:4457/play/a08g/index.m3u8
 #EXTINF:-41 tvg-logo="https://i.ibb.co/vw1MS9R/20240427-171803.jpg"group-title="Kolkata",Star Jalsha HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/3c65b579-5825
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1713/output/index.mpd
+http://38.96.178.201/live/STARJALSHA/index.m3u8
 #EXTINF:-42 tvg-logo="https://i.ibb.co/Th0ZcPM/20240427-172401.jpg"group-title="Kolkata",Star Jalsha
 http://kst.moonplex.net:8080/CH3/index.m3u8
 #EXTINF:-43 tvg-logo="https://i.ibb.co/dQ7fsJf/20240428-025157.jpg"group-title="Kolkata",Zee Bangla
