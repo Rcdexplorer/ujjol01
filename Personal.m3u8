@@ -56,7 +56,7 @@ http://38.96.178.201/live/STARJALSHA/index.m3u8
 #EXTINF:-42 tvg-logo="https://i.ibb.co/Th0ZcPM/20240427-172401.jpg"group-title="Kolkata",Star Jalsha
 http://kst.moonplex.net:8080/CH3/index.m3u8
 #EXTINF:-43 tvg-logo="https://i.ibb.co/dQ7fsJf/20240428-025157.jpg"group-title="Kolkata",Zee Bangla
-https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
+http://stvlive.net:8080/zeebangla/index.m3u8
 #EXTINF:-44 tvg-logo="https://i.ibb.co/pWP5kZB/20240428-025953.jpg"group-title="Kolkata",Zee Bangla HD
 http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 #EXTINF:-45 tvg-logo="https://i.ibb.co/0cgX3Bx/image-search-1713979185077.png"group-title="",Colors Bangla HD
